@@ -1,19 +1,38 @@
-# 👋 Olá! Eu sou o Heber
+# 👋 Olá, eu sou o Heber!
 
-🎯 Analista de Qualidade atuando na prevenção à fraude documental (documentoscopia), em transição para a área de Segurança da Informação.
+Sou Analista de Qualidade com atuação em Prevenção à Fraude e estou em transição de carreira para a área de **Segurança da Informação**.  
+Atualmente estudo **Python, Linux, Cybersecurity Essentials** e tecnologias relacionadas a segurança ofensiva e defensiva.
 
-🔐 Atualmente estudando:
-- Python (Curso: Python 3 - Luiz Otávio Miranda - Udemy)
-- Linux (DLTec)
-- Fundamentos de Segurança da Informação
+---
 
-🧠 Experiência com:
-- Identificação de selfies manipuladas e fraudes visuais
-- Análise de padrões de formatação e inconsistência documental
-- Prevenção à fraude na Serasa Experian
+## 🧠 Experiência atual
+- Atuação com análise de fraudes documentais (selfies e documentos manipulados)
+- Identificação de padrões de formatação, fontes e indícios de manipulação digital
+- Criação de padrões e critérios de validação para autenticação de identidade
 
-📌 Projetos em andamento:
-- [`fraude-em-documentos`](https://github.com/Heber139/fraude-em-documentos)
-- [`python-estudos`](https://github.com/Heber139/python-estudos)
+---
 
-📫 Vamos nos conectar: [LinkedIn](https://www.linkedin.com/in/heber-s-5210321b0/)
+## 🚀 Em andamento
+- 🎓 Graduação em Segurança da Informação (Centro Universitário Internacional UNINTER)
+- 🐍 Curso de Python 3 (Udemy)
+- 💻 Curso de Linux (DLTec)
+- 🔐 Fundamentos de Cybersecurity (Cisco Netacad / Alternativos)
+
+---
+
+## 🧰 Tecnologias que estou aprendendo
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📂 Repositórios em destaque
+- [python-estudos](https://github.com/Heber139/python-estudos): estudos e exercícios com Python
+- *[fraude-em-documentos]* (em breve): conhecimentos adquiridos com análise de fraudes documentais
+
+---
+
+## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heber-s-5210321b0/)
