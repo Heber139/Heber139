@@ -12,17 +12,17 @@ Acredito que a combinação da minha experiência investigativa com estas novas 
 
 ---
 
-### 📌 Experiência Profissional 
+### 📌 Experiência Profissional e Habilidades Transferíveis
 
-- 🕵️‍♂️ **Análise e Investigação de TTPs de Atores Maliciosos** em cenários de fraude de identidade, mapeando a atuação de grupos organizados para detecção de ameaças.
+- 🕵️‍♂️ **Análise e Investigação de TTPs (Táticas, Técnicas e Procedimentos)** de atores maliciosos em cenários de fraude de identidade, mapeando a atuação de grupos organizados para detecção de ameaças.
 
-- ✅ **Auditoria de Conformidade (Compliance)** e validação de políticas, assegurando que processos e configurações estejam alinhados às regras de negócio definidas pelos clientes.
+- 📊 **Análise e Validação de Dados de Auditoria** para identificação de falhas críticas em processos operacionais, servindo como base para diagnósticos aprofundados.
 
-- 📑 **Elaboração e Apresentação de Relatórios de Incidentes** (*Incident Reports*) e análises de falhas para stakeholders, incluindo liderança e áreas de negócio.
+- 📑 **Elaboração e Apresentação de Relatórios de Incidentes (Incident Reports)** e **Diagnósticos de Causa Raiz (RCA)** para stakeholders, incluindo liderança e áreas de negócio.
 
-- 🔍 **Identificação Proativa de Gaps de Segurança e Processos**, com recomendação de planos de ação para mitigação de riscos e melhoria contínua da detecção.
+- 🚀 **Identificação de Gaps de Processo e Mapeamento de Fluxos de Trabalho (Workflows)** para definição de requisitos em projetos de automação.
 
-- 📋 **Gestão do Ciclo de Vida de Investigações e Auditorias** utilizando JIRA, colaborando com a equipe na resolução de casos complexos e validação de evidências.
+- 📋 **Gestão do Ciclo de Vida de Investigações e Auditorias** utilizando **JIRA**, colaborando com a equipe na resolução de casos complexos e validação de evidências.
 
 ---
 
